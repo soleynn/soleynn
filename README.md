@@ -58,6 +58,12 @@
 `frameworks & tools ✿`
 
 <img src="https://img.shields.io/badge/React-D4F1F9?style=for-the-badge&logo=react&logoColor=3FA9C9" alt="React" />
+<img src="https://img.shields.io/badge/Axum-FFD9E0?style=for-the-badge&logo=rust&logoColor=B5651D" alt="Axum" />
+<img src="https://img.shields.io/badge/Actix-FFE0EC?style=for-the-badge&logo=actix&logoColor=C44569" alt="Actix" />
+<img src="https://img.shields.io/badge/Tauri-FFE8D6?style=for-the-badge&logo=tauri&logoColor=D6A84A" alt="Tauri" />
+<img src="https://img.shields.io/badge/PyTorch-FFE0D6?style=for-the-badge&logo=pytorch&logoColor=E07B5A" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-FFEBD6?style=for-the-badge&logo=tensorflow&logoColor=E0903A" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Qt-D9F0DC?style=for-the-badge&logo=qt&logoColor=4E9A5A" alt="Qt" />
 <img src="https://img.shields.io/badge/Git-FFC9DE?style=for-the-badge&logo=git&logoColor=D6336C" alt="Git" />
 
 </div>
