@@ -69,7 +69,7 @@
 ### ⊹ ࣪ ˖ &nbsp; find me &nbsp; ˖ ࣪ ⊹
 
 <a href="https://discord.com/users/">
-  <img src="https://img.shields.io/badge/discord-@megaloambystoma-FFB6C1?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/discord-soleynn.x-FFB6C1?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 
 </div>
