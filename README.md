@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://github.com/soleynn">
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=22&duration=3500&pause=800&color=FF8FAB&center=true&vCenter=true&width=520&height=55&lines=henlo+i+am+lyra+%E2%99%A1;i+code+small+projects+n+stuff;rust+%2B+python+enthusiast;i+enjoy+video+game+soundtracks+%E2%99%AB" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=22&duration=3500&pause=800&color=FF8FAB&center=true&vCenter=true&width=520&height=55&lines=henlo+i+am+lyra+%E2%99%A1;rust+%26+c%2B%2B+enjoyer;python%2C+ts+%2B+react+too;i+enjoy+video+game+soundtracks+%E2%99%AB" alt="typing intro" />
 </a>
 
 <br>
@@ -22,9 +22,11 @@
 
 </div>
 
-> ୨୧ &nbsp; henlo, i am **lyra** ⟢ i code small projects n stuff and im still learning a lot
+> ୨୧ &nbsp; henlo, i am **lyra** ⟢ i code small (n not-so-small) projects n stuff
 >
-> ୨୧ &nbsp; mostly interested in **rust** and **python** ♡
+> ୨୧ &nbsp; **rust** & **c++** are my favorites ♡ **python** is a close third
+>
+> ୨୧ &nbsp; got into a whole lot of **webdev** too — react, typescript n friends
 >
 > ୨୧ &nbsp; i enjoy **video game soundtracks** ♫ ⋆ ˙⟡
 >
@@ -36,9 +38,20 @@
 
 ### ✿ &nbsp; my little toolbox &nbsp; ✿
 
+`languages i love ♡`
+
 <img src="https://img.shields.io/badge/Rust-FFD1DC?style=for-the-badge&logo=rust&logoColor=B5651D" alt="Rust" />
+<img src="https://img.shields.io/badge/C%2B%2B-DAD4F7?style=for-the-badge&logo=cplusplus&logoColor=6C4FB8" alt="C++" />
 <img src="https://img.shields.io/badge/Python-E6D7F5?style=for-the-badge&logo=python&logoColor=8A5FB8" alt="Python" />
-<img src="https://img.shields.io/badge/git-FFC9DE?style=for-the-badge&logo=git&logoColor=D6336C" alt="Git" />
+<img src="https://img.shields.io/badge/TypeScript-CFE6FF?style=for-the-badge&logo=typescript&logoColor=2D79C7" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-FFF3C9?style=for-the-badge&logo=javascript&logoColor=C8A415" alt="JavaScript" />
+
+`webdev n friends ✿`
+
+<img src="https://img.shields.io/badge/React-D4F1F9?style=for-the-badge&logo=react&logoColor=3FA9C9" alt="React" />
+<img src="https://img.shields.io/badge/HTML5-FFE0CC?style=for-the-badge&logo=html5&logoColor=D6603A" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-D9E4FF?style=for-the-badge&logo=css3&logoColor=4A6CD4" alt="CSS3" />
+<img src="https://img.shields.io/badge/Git-FFC9DE?style=for-the-badge&logo=git&logoColor=D6336C" alt="Git" />
 
 </div>
 
@@ -90,6 +103,6 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8A2E8,100:FFB6D9&height=120&section=footer&text=thank%20you%20for%20visiting%20%E2%99%A1&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8A2E8,100:FFB6D9&height=120&section=footer&text=thank%20u%20for%20visiting%20%E2%99%A1&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%" />
 
 </div>
