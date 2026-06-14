@@ -44,12 +44,16 @@
 <img src="https://img.shields.io/badge/C%2B%2B-DAD4F7?style=for-the-badge&logo=cplusplus&logoColor=6C4FB8" alt="C++" />
 <img src="https://img.shields.io/badge/Python-E6D7F5?style=for-the-badge&logo=python&logoColor=8A5FB8" alt="Python" />
 
-`languages i tolerate ╮(╯_╰)╭`
+`the bane of the earth ☠ (i merely tolerate these)`
 
 <img src="https://img.shields.io/badge/JavaScript-FFF3C9?style=for-the-badge&logo=javascript&logoColor=C8A415" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-CFE6FF?style=for-the-badge&logo=typescript&logoColor=2D79C7" alt="TypeScript" />
 <img src="https://img.shields.io/badge/HTML5-FFE0CC?style=for-the-badge&logo=html5&logoColor=D6603A" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-D9E4FF?style=for-the-badge&logo=css3&logoColor=4A6CD4" alt="CSS3" />
+<img src="https://img.shields.io/badge/SQL-D9E4FF?style=for-the-badge&logo=sqlite&logoColor=4A6CD4" alt="SQL" />
+<img src="https://img.shields.io/badge/C-CFE0F0?style=for-the-badge&logo=c&logoColor=4A6CD4" alt="C" />
+<img src="https://img.shields.io/badge/Lua-D6D9F5?style=for-the-badge&logo=lua&logoColor=4A4FB8" alt="Lua" />
+<img src="https://img.shields.io/badge/Bash-D9E8D4?style=for-the-badge&logo=gnubash&logoColor=4E8A3D" alt="Bash" />
 
 `frameworks & tools ✿`
 
