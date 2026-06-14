@@ -1,0 +1,8 @@
+# os cruft
+.DS_Store
+Thumbs.db
+
+# editor junk
+.vscode/
+.idea/
+*.swp
