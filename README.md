@@ -26,11 +26,11 @@
 >
 > ୨୧ &nbsp; **rust** & **c++** are my favorites ♡ **python** is a close third
 >
-> ୨୧ &nbsp; got into a whole lot of **webdev** too — react, typescript n friends
+> ୨୧ &nbsp; got into a whole lot of **webdev**... sry...
 >
 > ୨୧ &nbsp; i enjoy **video game soundtracks** ♫ ⋆ ˙⟡
 >
-> ୨୧ &nbsp; i do not like introductions so this is all you get (｡•̀ᴗ-)✧
+> ୨୧ &nbsp; i do not like introductions so this is all u get (｡•̀ᴗ-)✧
 
 <br>
 
@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/C%2B%2B-DAD4F7?style=for-the-badge&logo=cplusplus&logoColor=6C4FB8" alt="C++" />
 <img src="https://img.shields.io/badge/Python-E6D7F5?style=for-the-badge&logo=python&logoColor=8A5FB8" alt="Python" />
 
-`the bane of the earth ☠ (i merely tolerate these)`
+`languages i tolerate :)`
 
 <img src="https://img.shields.io/badge/JavaScript-FFF3C9?style=for-the-badge&logo=javascript&logoColor=C8A415" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-CFE6FF?style=for-the-badge&logo=typescript&logoColor=2D79C7" alt="TypeScript" />
