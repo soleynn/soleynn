@@ -43,14 +43,17 @@
 <img src="https://img.shields.io/badge/Rust-FFD1DC?style=for-the-badge&logo=rust&logoColor=B5651D" alt="Rust" />
 <img src="https://img.shields.io/badge/C%2B%2B-DAD4F7?style=for-the-badge&logo=cplusplus&logoColor=6C4FB8" alt="C++" />
 <img src="https://img.shields.io/badge/Python-E6D7F5?style=for-the-badge&logo=python&logoColor=8A5FB8" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-CFE6FF?style=for-the-badge&logo=typescript&logoColor=2D79C7" alt="TypeScript" />
+
+`languages i tolerate ╮(╯_╰)╭`
+
 <img src="https://img.shields.io/badge/JavaScript-FFF3C9?style=for-the-badge&logo=javascript&logoColor=C8A415" alt="JavaScript" />
-
-`webdev n friends ✿`
-
-<img src="https://img.shields.io/badge/React-D4F1F9?style=for-the-badge&logo=react&logoColor=3FA9C9" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-CFE6FF?style=for-the-badge&logo=typescript&logoColor=2D79C7" alt="TypeScript" />
 <img src="https://img.shields.io/badge/HTML5-FFE0CC?style=for-the-badge&logo=html5&logoColor=D6603A" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-D9E4FF?style=for-the-badge&logo=css3&logoColor=4A6CD4" alt="CSS3" />
+
+`frameworks & tools ✿`
+
+<img src="https://img.shields.io/badge/React-D4F1F9?style=for-the-badge&logo=react&logoColor=3FA9C9" alt="React" />
 <img src="https://img.shields.io/badge/Git-FFC9DE?style=for-the-badge&logo=git&logoColor=D6336C" alt="Git" />
 
 </div>
