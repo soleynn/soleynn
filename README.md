@@ -60,9 +60,8 @@
 
 ### ♡ &nbsp; what im listening to &nbsp; ♡
 
-<!-- ୨୧ SPOTIFY: replace YOUR_UID below after you authorize the widget (lyra, see the chat for the 2-min steps!) ୨୧ -->
-<a href="https://open.spotify.com/">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=novatorem&bar_color=ffb6c1&bar_color_cover=true" alt="Spotify now playing" />
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ujp4bw2hyad5uw7ccp3pl2hemy&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ujp4bw2hyad5uw7ccp3pl2hemy&cover_image=true&theme=novatorem&show_offline=true&bar_color=ffb6c1&bar_color_cover=false" alt="Spotify now playing" />
 </a>
 
 <br><br>
@@ -82,7 +81,7 @@
 
 <div align="center">
 
-### 🐍 &nbsp; my contribution garden &nbsp; 🌷
+### 🐍 &nbsp; snek &nbsp; 🐍
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soleynn/soleynn/output/github-snake-dark.svg" />
