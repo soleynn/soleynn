@@ -68,12 +68,11 @@
 
 ### ⋆ ˚｡⋆ &nbsp; my stats &nbsp; ⋆ ˚｡⋆
 
-<img src="https://github-readme-stats.vercel.app/api?username=soleynn&show_icons=true&hide_border=false&title_color=FF8FAB&icon_color=C8A2E8&text_color=9C8AA5&bg_color=FFF0F5&border_color=FFC9DE&border_radius=15" alt="stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soleynn&layout=compact&hide_border=false&title_color=FF8FAB&text_color=9C8AA5&bg_color=FFF0F5&border_color=FFC9DE&border_radius=15" alt="top langs" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=soleynn&show_icons=true&hide_border=false&title_color=FF8FAB&icon_color=C8A2E8&text_color=9C8AA5&bg_color=FFF0F5&border_color=FFC9DE&border_radius=15" alt="stats" width="480" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soleynn&theme=default&hide_border=false&background=FFF0F5&border=FFC9DE&ring=FF8FAB&fire=FF8FAB&currStreakLabel=C8A2E8&sideLabels=9C8AA5&dates=B9A8C2&currStreakNum=FF8FAB&sideNums=FF8FAB&radius=15" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soleynn&theme=default&hide_border=false&background=FFF0F5&border=FFC9DE&ring=FF8FAB&fire=FF8FAB&currStreakLabel=C8A2E8&sideLabels=9C8AA5&dates=B9A8C2&currStreakNum=FF8FAB&sideNums=FF8FAB&radius=15" alt="streak" width="480" />
 
 </div>
 
